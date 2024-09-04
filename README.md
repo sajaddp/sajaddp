@@ -3,19 +3,12 @@
 <a href="https://github.com/sajaddp" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="https://twitter.com/sajaddp" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+<a href="https://linkedin.com/in/sajaddp" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
 <a href="https://dev.to/sajaddp" target="_blank">
 <img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
 </a>
-<a href="https://linkedin.com/in/sajaddp" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-
-<a href="https://www.youtube.com/user/#" target="_blank">
-<img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
-</a>  
   
 ## Glad to see you here  
 
@@ -28,6 +21,8 @@ Over the past few years, I have been the CEO of VasetKala, which has a creative 
 ## Github Stats  
 
 <img src="https://github-readme-stats.vercel.app/api?username=sajaddp&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />  
+
+<img src="https://raw.githubusercontent.com/sajaddp/sajaddp/output/snake.svg" alt="Snake animation" />
 
 ## Trophies  
 
