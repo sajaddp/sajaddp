@@ -22,8 +22,6 @@ Over the past few years, I have been the CEO of VasetKala, which has a creative 
 
 <img src="https://github-readme-stats.vercel.app/api?username=sajaddp&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />  
 
-<img src="https://raw.githubusercontent.com/sajaddp/sajaddp/output/snake.svg" alt="Snake animation" />
-
 ## Trophies  
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=sajaddp)  
