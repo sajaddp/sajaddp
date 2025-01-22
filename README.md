@@ -18,10 +18,6 @@ Moreover, I have been working as an SEO proficiently for over ten years. I have 
 
 Over the past few years, I have been the CEO of VasetKala, which has a creative and dynamic team. As a result, I have spent hours studying and researching leadership. Today, the secret that teams can succeed in business is respecting people, whether they are customers, competitors, and employees.  
   
-## Github Stats  
-
-<img src="https://github-readme-stats.vercel.app/api?username=sajaddp&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />  
-
 ## Trophies  
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=sajaddp)  
