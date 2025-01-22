@@ -20,7 +20,7 @@ Over the past few years, I have been the CEO of VasetKala, which has a creative 
   
 ## Trophies  
 
-![trophy](https://github-profile-trophy.vercel.app/?username=sajaddp)  
+![trophy](https://github-profile-trophy.vercel.app/?username=sajaddp&margin-w=15&margin-h=15)  
 
 ## Languages and Tools  
 
