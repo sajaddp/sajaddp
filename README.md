@@ -54,7 +54,7 @@ Hey, I’m **Sajad** — a human who codes, teaches, and sometimes talks to rubb
 ---
 
 <p align="center" style="font-style: italic;">
-  “If you’re not breaking things, you’re probably not learning fast enough.”  
+  “Real builders build. The rest just talk.”  
   <br>— SajadDP
 </p>
 
