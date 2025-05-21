@@ -1,62 +1,60 @@
-# Hey 👋, I'm SajadDP
+<h1 align="center">🦉 SajadDP — Where Code Meets Curiosity</h1>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-1E77B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sajaddp/)
-[![YouTube](https://img.shields.io/badge/YouTube-BUG%20University-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@bug-university)
-[![GitHub](https://img.shields.io/badge/GitHub-24292e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sajaddp)
-
----
-
-## 👨‍💻 About Me
-
-- **Full-Stack Developer** with 10+ years experience  
-  (Laravel, Node.js, JavaScript, TypeScript, React, Next.js, PHP)
-- **SEO Expert** — 10+ years of holistic, hands-on SEO strategy & training
-- **Ex-CEO & Technical Lead** @ VasetKala  
-- **Programming Mentor** — Helping the next generation learn, build, and think bigger
-- Always learning, always building, always sharing
+<p align="center">
+  <a href="https://www.linkedin.com/in/sajaddp/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%231E77B5.svg?&style=flat-square&logo=linkedin&logoColor=white"></a>
+  <a href="https://www.youtube.com/@bug-university"><img alt="YouTube" src="https://img.shields.io/badge/YouTube-Bug_University-FF0000?style=flat-square&logo=youtube&logoColor=white"></a>
+  <a href="https://github.com/sajaddp"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"></a>
+</p>
 
 ---
 
-## 🚀 What I Do
+## 👋 Who am I?
 
-- Design & build robust backends (Laravel, Node.js, TypeScript)
-- Create modern, efficient frontends (React, Next.js)
-- Architect scalable systems and databases (PostgreSQL, MySQL, MongoDB)
-- Develop SEO strategies that actually *work* in the real world
-- Mentor, teach & code live on [YouTube @ Bug University](https://www.youtube.com/@bug-university)
+Hey, I’m **Sajad** — a human who codes, teaches, and sometimes talks to rubber ducks to debug weird bugs faster.
 
----
-
-## 🛠️ Languages & Tools
-
-<div align="center">
-  <a href="https://reactjs.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="28" /></a>
-  <a href="https://nextjs.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="NextJS" height="28" /></a>
-  <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="28" /></a>
-  <a href="https://nodejs.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="28" /></a>
-  <a href="https://laravel.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/laravel-plain-wordmark.svg" alt="Laravel" height="28" /></a>
-  <a href="https://www.php.net/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="28" /></a>
-  <a href="https://www.mysql.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="28" /></a>
-  <a href="https://www.postgresql.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="28" /></a>
-  <a href="https://www.mongodb.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="28" /></a>
-  <a href="https://www.docker.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="28" /></a>
-  <a href="https://www.gnu.org/software/bash/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="28" /></a>
-  <a href="https://wordpress.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/wordpress.png" alt="WordPress" height="28" /></a>
-  <a href="https://www.linux.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="28" /></a>
-  <a href="https://tailwindcss.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="28" /></a>
-  <a href="https://getbootstrap.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="28" /></a>
-</div>
+- 💻 **Full-Stack Dev** (mainly Laravel, Node.js, JavaScript/React, Next.js, TypeScript)
+- 🔍 **SEO Expert** (10+ years of experience and still don’t believe in magic keywords)
+- 🧑‍🏫 **Programming Mentor** (turning confused faces into “aha!” moments)
+- 🏗️ **Builder of things** — From startup MVPs to real-world products with thousands of users
+- 🤝 Always open to collaboration, honest feedback, and the next “impossible” challenge
 
 ---
 
-## 📫 Let’s Connect!
+## 🚦 What Drives Me?
 
-- [LinkedIn](https://www.linkedin.com/in/sajaddp/)
-- [YouTube - Bug University](https://www.youtube.com/@bug-university)
+- Writing code that makes lives easier (for real people, not just for “Hello World”)
+- Teaching what I wish someone taught me earlier
+- Demystifying SEO — making search engines love your stuff *without* shady tricks
+- Turning “it can’t be done” into “wait, it works!”
+
+---
+
+## ⚡️ My Stack (Most Days)
+
+`Typescript` • `Node.js` • `Laravel` • `React` • `Next.js` • `PostgreSQL` • `MySQL`  
+`Docker` • `Linux` • `Tailwind CSS` • `WordPress` • `Git` • `Bash`
 
 ---
 
-> *“Code for people, not for machines. Teach what you learn. Share your bugs—they’re your best teachers.”*
+## 🧑‍💻 Currently
+
+- Creating code & content for [Bug University](https://www.youtube.com/@bug-university)
+- Helping others go from tutorial hell to building *real* things
+- Always learning something a bit outside my comfort zone (lately: AI & data engineering)
 
 ---
+
+## 🌱 Let’s Connect
+
+- Want to talk code, teaching, SEO, or building products?  
+  Find me on [LinkedIn](https://www.linkedin.com/in/sajaddp/).
+- Want dev tutorials, code reviews, or the occasional debugging rant?  
+  Catch me on [YouTube - Bug University](https://www.youtube.com/@bug-university).
+
+---
+
+<p align="center" style="font-style: italic;">
+  “If you’re not breaking things, you’re probably not learning fast enough.”  
+  <br>— SajadDP
+</p>
 
