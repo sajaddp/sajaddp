@@ -54,7 +54,7 @@ Hey, I’m **Sajad** — a human who codes, teaches, and sometimes talks to rubb
 ---
 
 <p align="center" style="font-style: italic;">
-  “Real builders build. The rest just talk.”  
+“Real builders build. The rest just talk — at Bug University, we always build.”
   <br>— SajadDP
 </p>
 
