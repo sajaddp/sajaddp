@@ -12,15 +12,11 @@
   
 ## Glad to see you here  
 
-I have professional and considerable experience working with PHP, Laravel, and NodeJs in the back-end. I am a self-taught INTJ (my latest MBTI test result) full-stack developer with M.S. in intelligent systems. In addition, I have worked as a web developer, Javascript / ReactJs / VueJs as a front-end.
-
-Moreover, I have been working as an SEO proficiently for over ten years. I have taught people how to design a Holistic SEO strategy.
-
-Over the past few years, I have been the CEO of VasetKala, which has a creative and dynamic team. As a result, I have spent hours studying and researching leadership. Today, the secret that teams can succeed in business is respecting people, whether they are customers, competitors, and employees.  
-  
-## Trophies  
-
-![trophy](https://github-profile-trophy.vercel.app/?username=sajaddp&margin-w=15&margin-h=15)  
+👋 Hi, I'm Sajad — a Full-Stack Developer with 10+ years’ experience in PHP (Laravel), Node.js, and JavaScript (React, Vue). 
+💻 I love building robust backends, smooth frontends, and everything in between.
+🔎 SEO Expert for 10+ years — I’ve designed and taught holistic SEO strategies for real-world results.
+🚀 Ex-CEO and Technical Lead at VasetKala. Now focused on mentoring, teaching, and sharing what I learn.
+🌱 Always learning, always shipping, always happy to help.
 
 ## Languages and Tools  
 
