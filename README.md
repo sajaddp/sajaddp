@@ -1,9 +1,15 @@
 <h1 align="center">🦉 SajadDP — Where Code Meets Curiosity</h1>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/sajaddp/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%231E77B5.svg?&style=flat-square&logo=linkedin&logoColor=white"></a>
-  <a href="https://www.youtube.com/@bug-university?sub_confirmation=1"><img alt="YouTube" src="https://img.shields.io/badge/YouTube-Bug_University-FF0000?style=flat-square&logo=youtube&logoColor=white"></a>
-  <a href="https://github.com/sajaddp"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/sajaddp/">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%231E77B5.svg?&style=flat-square&logo=linkedin&logoColor=white">
+  </a>
+  <a href="https://www.youtube.com/@sajaddehshiri?sub_confirmation=1">
+    <img alt="YouTube" src="https://img.shields.io/badge/YouTube-Bug_University-FF0000?style=flat-square&logo=youtube&logoColor=white">
+  </a>
+  <a href="https://github.com/sajaddp">
+    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white">
+  </a>
 </p>
 
 ---
@@ -38,7 +44,7 @@ Hey, I’m **Sajad** — a human who codes, teaches, and sometimes talks to rubb
 
 ## 🧑‍💻 Currently
 
-- Creating code & content for [Bug University](https://www.youtube.com/@bug-university?sub_confirmation=1)
+- Creating code & content for [Bug University](https://www.youtube.com/@sajaddehshiri?sub_confirmation=1)
 - Helping others go from tutorial hell to building *real* things
 - Always learning something a bit outside my comfort zone (lately: AI & data engineering)
 
@@ -49,11 +55,11 @@ Hey, I’m **Sajad** — a human who codes, teaches, and sometimes talks to rubb
 - Want to talk code, teaching, SEO, or building products?  
   Find me on [LinkedIn](https://www.linkedin.com/in/sajaddp/).
 - Want dev tutorials, code reviews, or the occasional debugging rant?  
-Catch me on [YouTube - Bug University](https://sajaddehshiri.ir?sub_confirmation=1).
+  Catch me on [YouTube - Bug University](https://www.youtube.com/@sajaddehshiri?sub_confirmation=1).
+
 ---
 
 <p align="center" style="font-style: italic;">
 “Real builders build. The rest just talk — at Bug University, we always build.”
   <br>— SajadDP
 </p>
-
