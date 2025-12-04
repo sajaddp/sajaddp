@@ -49,8 +49,7 @@ Hey, I’m **Sajad** — a human who codes, teaches, and sometimes talks to rubb
 - Want to talk code, teaching, SEO, or building products?  
   Find me on [LinkedIn](https://www.linkedin.com/in/sajaddp/).
 - Want dev tutorials, code reviews, or the occasional debugging rant?  
-  Catch me on [YouTube - Bug University](https://www.youtube.com/@bug-university?sub_confirmation=1).
-
+Catch me on [YouTube - Bug University](https://sajaddehshiri.ir?sub_confirmation=1).
 ---
 
 <p align="center" style="font-style: italic;">
