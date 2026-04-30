@@ -1,79 +1,95 @@
-<h1 align="center">🦉 SajadDP — Product, Code, SEO & Teaching</h1>
+<h1 align="center">🦉 Sajad Dehshiri — Intelligent Systems, Web Products, SEO & Teaching</h1>
 
 <p align="center">
   <a href="https://sajaddehshiri.ir/">
     <img alt="Website" src="https://img.shields.io/badge/Website-sajaddehshiri.ir-0f172a?style=flat-square&logo=google-chrome&logoColor=white">
   </a>
   <a href="https://www.linkedin.com/in/sajaddp/">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%231E77B5.svg?&style=flat-square&logo=linkedin&logoColor=white">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%2Fin%2Fsajaddp-0A66C2?style=flat-square&logo=linkedin&logoColor=white">
   </a>
   <a href="https://www.youtube.com/@sajaddehshiri?sub_confirmation=1">
-    <img alt="YouTube" src="https://img.shields.io/badge/YouTube-Bug_University-FF0000?style=flat-square&logo=youtube&logoColor=white">
+    <img alt="YouTube" src="https://img.shields.io/badge/YouTube-%40sajaddehshiri-FF0000?style=flat-square&logo=youtube&logoColor=white">
   </a>
   <a href="https://github.com/sajaddp">
-    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white">
+    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-%40sajaddp-181717?style=flat-square&logo=github&logoColor=white">
   </a>
 </p>
 
 <p align="center">
-  <sub>Official profile & links: <a href="https://sajaddehshiri.ir/">sajaddehshiri.ir</a></sub>
+  <sub>Official identity, profile, and links: <a href="https://sajaddehshiri.ir/">sajaddehshiri.ir</a></sub>
 </p>
 
 ---
 
-## 👋 Who am I?
+## 👋 About Me
 
-Hey, I’m **Sajad** — a builder who codes, teaches, and occasionally argues with bugs until they confess.
+Hey, I’m **Sajad Dehshiri** — also known as **sajaddp**.
 
-- 💻 **Full-Stack Product Developer** (Laravel, Node.js, React, Next.js, TypeScript)
-- 🔍 **Technical SEO Specialist** (focused on structure, performance, and sustainable growth)
-- 🧑‍🏫 **Programming Mentor** (practical learning, real projects, less tutorial maze)
-- 🏗️ **Product Builder** — from MVPs to production systems used by real people
-- 🤝 **Collaboration-first** — clear communication, honest feedback, and execution over noise
+I work on **intelligent systems**, **senior web development**, **technical SEO**, and **product development**. My focus is building practical systems that ship fast, remain maintainable, and can grow without becoming fragile.
 
-These days, alongside product development and mentoring, I also spend part of my time on **business negotiation education** and related learning content.
-
----
-
-## 🚦 What Drives Me
-
-- Building useful products that solve real problems
-- Writing maintainable code that survives version 2, 3, and 10
-- Teaching what actually helps people ship
-- Making technical SEO understandable (without gimmicks)
-- Turning messy ideas into clear systems and practical outcomes
+- 🧠 **Intelligent Systems** — data-driven tools, automation, and machine-learning-based solutions for real problems
+- 💻 **Senior Web Development** — backend, frontend, architecture, and production-grade web systems
+- 🚀 **Product Development** — turning ideas into stable, usable, and scalable products
+- 🔍 **Technical SEO** — structure, performance, discoverability, and sustainable growth
+- 🧑‍🏫 **Practical Mentoring** — helping developers learn through real projects and better engineering decisions
+- 🤝 **Business Negotiation Education** — practical negotiation content for business and professional contexts
 
 ---
 
-## ⚡️ My Stack (Most Days)
+## 🧭 What I Work On
 
-`TypeScript` • `Node.js` • `Laravel` • `React` • `Next.js` • `PostgreSQL` • `MySQL`  
-`Docker` • `Linux` • `Tailwind CSS` • `WordPress` • `Git` • `Bash`
+### Intelligent Systems
+
+I design and build data-driven systems, automation tools, and practical machine-learning-based solutions that are meant to solve real-world problems, not just look good in demos.
+
+### Senior Web Development
+
+I build backend systems with **Laravel** and **Node.js**, and frontend products with **React** and **Next.js**. I care about clean architecture, maintainability, performance, and systems that can survive version 2, 3, and 10.
+
+### Technical SEO & Product Growth
+
+I treat SEO as part of product engineering: clean structure, fast pages, crawlable architecture, meaningful content, and better conversion paths. A good product still needs to be discoverable.
+
+### Open Source & Iran-Related Data
+
+Part of my work goes into open-source projects, practical tooling, small developer utilities, and datasets related to Iran-focused data and workflows.
+
+### Teaching & Negotiation Education
+
+I create educational content around programming, engineering decisions, practical development, and business negotiation. Course updates and learning content are shared only through my official channels.
+
+---
+
+## ⚡ Tech Stack
+
+`TypeScript` • `JavaScript` • `Node.js` • `Laravel` • `PHP` • `React` • `Next.js`  
+`PostgreSQL` • `MySQL` • `Docker` • `Linux` • `Tailwind CSS` • `WordPress` • `Git` • `Bash`
 
 ---
 
 ## 🧑‍💻 Currently
 
-- Building products and improving existing systems
-- Mentoring developers on practical engineering and decision-making
-- Creating code/content for [Bug University](https://www.youtube.com/@sajaddehshiri?sub_confirmation=1)
-- Sharing learning content (including **business negotiation education**) through official channels
+- Building intelligent systems and production web products
+- Improving existing systems for performance, structure, and long-term maintainability
+- Working on technical SEO and product growth
+- Mentoring developers through practical, project-based learning
+- Creating educational content around programming and business negotiation
 - Exploring AI-assisted workflows while keeping engineering standards intact
 
 ---
 
-## 🌱 Let’s Connect
+## 🌱 Connect
 
-- **Official identity & main links:** [sajaddehshiri.ir](https://sajaddehshiri.ir/)
-- **Professional updates / collaboration:** [LinkedIn](https://www.linkedin.com/in/sajaddp/)
-- **Dev content & tutorials:** [YouTube — Bug University](https://www.youtube.com/@sajaddehshiri?sub_confirmation=1)
+- **Website / canonical profile:** [sajaddehshiri.ir](https://sajaddehshiri.ir/)
+- **LinkedIn:** [/in/sajaddp](https://www.linkedin.com/in/sajaddp/)
+- **YouTube:** [@sajaddehshiri](https://www.youtube.com/@sajaddehshiri?sub_confirmation=1)
 
-> I only share official updates (including educational content and course-related announcements) through my official channels/profiles.
+> My official links and identity are listed on [sajaddehshiri.ir](https://sajaddehshiri.ir/).
 
 ---
 
 <p align="center">
-  <em>Build useful things. Keep learning. Stay honest.</em>
+  <em>Build useful systems. Keep the architecture clean. Stay honest.</em>
   <br />
-  — SajadDP
+  — Sajad Dehshiri / sajaddp
 </p>
