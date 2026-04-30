@@ -1,4 +1,4 @@
-<h1 align="center">🦉 Sajad Dehshiri — Intelligent Systems, Web Products, SEO & Teaching</h1>
+<h1 align="center">Sajad Dehshiri — Intelligent Systems, Web Products, SEO & Teaching</h1>
 
 <p align="center">
   <a href="https://sajaddehshiri.ir/">
